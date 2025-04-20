@@ -1,0 +1,6 @@
+com\example\rules\IndexingRule.class
+com\example\IndexingApplication.class
+com\example\utils\FileReaderUtil.class
+com\example\rules\IndexingProcessor.class
+com\example\rules\UpperCaseWordCountRule.class
+com\example\rules\LongWordListRule.class
